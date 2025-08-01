@@ -1,9 +1,11 @@
-  {
-    "users": [
-      {
-        "name": "teste",
-        "age": 15
-      }
-    ]
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-
+}
